@@ -1,2 +1,4 @@
-# excon
-excon style
+excon
+# belief
+# focus
+# evolution
